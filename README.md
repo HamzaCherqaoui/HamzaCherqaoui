@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HamzaCherqaoui
-- 👀 I’m interested in Mobile Development and Backend coding using Java and c++!
+- 👀 I’m interested in Mobile Development and Backend coding using Java and Python!
 - 🌱 I’m currently learning Web development (JavaScript, HTML, CSS) and database languages(MySQL).
-- 💞️ I’m looking to collaborate on various projects using my backend 
+- 💞️ I’m looking to collaborate on various projects.
 - 📫 How to reach me: 
 email: hamzacherqaoui2001@gmail.com
 phone: +1 (765)301-8024
